@@ -2,6 +2,10 @@
 	Coin Slider jQuery plugin CSS styles
 	http://workshop.rs/projects/coin-slider
 */
+body {
+	background-color: aqua;
+}
+
 .coin-slider {
 	padding:0;
 	overflow:hidden;
